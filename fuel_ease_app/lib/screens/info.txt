@@ -1,0 +1,3 @@
+The folder is to contain all the screens code for the project
+
+To check out your screen, simply modify the home property in MaterialApp in main.dart
